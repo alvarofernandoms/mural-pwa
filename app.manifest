@@ -1,0 +1,12 @@
+{
+  "name": "Mural JS",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/pwa-logo.png",
+      "sizes": "256x256",
+      "types": "img/png"
+    }
+  ]
+}
